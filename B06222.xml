@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True Blew the plowman, or, A character of several callings which he could not freely fancy, when he found their grand deceit. He never yet would change his note, he'd rather be a slave. Nay, wear a poor thread-bare coat. [sic] than counted as a knave. To the tune of, The country farmer. This may be printed, R.P.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685-1688?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06222</idno>
+            <idno type="STC">Wing T2589</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[471]</idno>
+            <idno type="EEBO-CITATION">99887928</idno>
+            <idno type="PROQUEST">ocm99887928</idno>
+            <idno type="VID">183581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183581)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[372])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True Blew the plowman, or, A character of several callings which he could not freely fancy, when he found their grand deceit. He never yet would change his note, he'd rather be a slave. Nay, wear a poor thread-bare coat. [sic] than counted as a knave. To the tune of, The country farmer. This may be printed, R.P.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1685-1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "Now trading is dead I resolve to contrive ..."</note>
+                  <note>Imperfect: trimmed, affecting imprint.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="471" facs="tcp:183581:1"/>
+            <!-- PDF PAGE 5 -->
+            <head>True Blew the Plowman, Or A Character of ſeveral <hi>Callings</hi> which he could not freely fancy, when he found their grand Deceit.</head>
+            <argument>
+               <lg>
+                  <l>
+                     <hi>He never yet would change his Note,</hi>
+                  </l>
+                  <l>
+                     <hi>He'd rather be aſlave.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Nay wear a poor and thread-bare Coat.</hi>
+                  </l>
+                  <l>
+                     <hi>than counted as a Knave.</hi>
+                  </l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>The Country Farmer.</hi>
+            </opener>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>This May be Printed,</p>
+                  <closer>
+                     <signed>R. P.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>NOw Trading is dead I reſalve to contrive,</l>
+               <l>And ſtudy ſome calling in order to thrive,</l>
+               <l>But I will be juſt in what ever I do,</l>
+               <l>My Name I muſt tell you is honeſt <hi>True Blew:</hi>
+               </l>
+               <l>Though Fortune does oftentimes ſmile on a Knave,</l>
+               <l>By their unjuſt dealings they do get and ſave,</l>
+               <l>But honeſt Plain-dealing does live like a ſlave,</l>
+               <l>While Ranting brave Hectors goes gallant &amp; brave.</l>
+            </lg>
+            <lg>
+               <l>At firſt I conſidered what Trade I might be,</l>
+               <l>To live with <hi>Plain-Dealing</hi> without Knavery,</l>
+               <l>I would be a Brewer at firſt I did think,</l>
+               <l>And then to be be ſure I ſhall never want drink:</l>
+               <l>But ſtraightways I thought of the Brewers old fault</l>
+               <l>Who put in the <hi>Water</hi> and left out the <hi>Mault,</hi>
+               </l>
+               <l>If I ſhould do ſo and make pittiful Beer,</l>
+               <l>I ſhould have the Curſe of the <hi>Tinkers</hi> I fear.</l>
+            </lg>
+            <lg>
+               <l>As I was a walking a long very ſad,</l>
+               <l>I met a fine Hoſtels that wanted a Lad,</l>
+               <l>Her words were ſo wiinning I could do ſo leſs,</l>
+               <l>But go along with her to tend on the Gueſs,</l>
+               <l>She laid, when you wait on a jolly boon crew,</l>
+               <l>Each Pot as you draw, them be ſure you ſcore two,</l>
+               <l>I told her falſe-dealing now never would do,</l>
+               <l>'Twas better be ragged and torn and true.</l>
+            </lg>
+            <lg>
+               <l>If this be your dealings I never will ſtay,</l>
+               <l>Thought I then I'le pack up my Awls and away,</l>
+               <l>I finding by this how the current did run,</l>
+               <l>Poor men by thoſe Ale-wives are often undone,</l>
+               <l>No wonder it is now that they are ſo great,</l>
+               <l>To flouriſh in Silks at ſo gallant a rate,</l>
+               <l>'Tis folly that makes men to ſell their Eſtate,</l>
+               <l>While Ale-wives can flouriſh &amp;. drink in their plate.</l>
+            </lg>
+            <lg>
+               <l>He told me no trouble nor coſt he'd ſpare,</l>
+               <l>Of me he would take a particular care:</l>
+               <l>I would have a calling without all deceit,</l>
+               <l>But with ſuch a one, I as yet could not meet,</l>
+               <l>My Father was willing my joys to compleat,</l>
+               <l>And now of a <hi>Taylor</hi> I mean for to treat.</l>
+            </lg>
+            <lg>
+               <l>I went upon liking a <hi>Taylor</hi> to be,</l>
+               <l>And now I will tell you a paſſage I ſee,</l>
+               <l>One brought in my Maſter ſome Cloath for a Cloak,</l>
+               <l>And he at his Cabbaging had a good ſtroak:</l>
+               <l>For taking his Shiers he whipt off an Ell,</l>
+               <l>And ſtraight he condemn'd it, and ſent it to Hell,</l>
+               <l>Down under his Shop-board, which when I did ſee,</l>
+               <l>Thought I then I'le ne'r be Prentice to thee.</l>
+            </lg>
+            <lg>
+               <l>A luſty brave <hi>Miller</hi> came up to the Town,</l>
+               <l>And I as a Prentice with him muſt go down,</l>
+               <l>Thought I with an honeſt man now I am bleſt,</l>
+               <l>But ſoon I did find him as bad as the reſt:</l>
+               <l>For if you'l believe me, I think in my Soul,</l>
+               <l>He dad a great Diſh was as big as a Bowl,</l>
+               <l>And there was old taking and taking of Toul,</l>
+               <l>Thus he would be fiſhing againſt all controul.</l>
+            </lg>
+            <lg>
+               <l>Beſide he was counted a ſlippery blade,</l>
+               <l>And fain would be toying with every Maid;</l>
+               <l>There was a young Laſs, and her name it was <hi>Kate,</hi>
+               </l>
+               <l>With whom he would fain have bin playing the mate:</l>
+               <l>One day as ſhe came with her Griſt to the Mill,</l>
+               <l>My maſter the <hi>Miller</hi> was tempting her ſtill,</l>
+               <l>The Maiden with courage catch'd hold of his Ham,</l>
+               <l>And tumbled him headlong into the Mill-Dam.</l>
+            </lg>
+            <lg>
+               <l>It hapned to be the lower-ſide of the Mill,</l>
+               <l>But yet he lay crying and calling out ſtill:</l>
+               <l>I could not tell well what the matter might be,</l>
+               <l>And therefore to him I did run haſtily.</l>
+               <l>But when in the River I did him find,</l>
+               <l>Thought I in my Heart thou art ſerv'd in thy kind,</l>
+               <l>And thus by the Maiden the <hi>Miller</hi> was fool'd,</l>
+               <l>For then in the River his Courage was cool'd.</l>
+            </lg>
+            <lg>
+               <l>Thought I, I will ne'r be a ſlave to this Elf,</l>
+               <l>For fear he ſhould make me as had as himſelf,</l>
+               <l>With ſame honeſt Farmer i'le get me a place,</l>
+               <l>Where I may live happy and free from diſgrace:</l>
+               <l>And thus I did leave the old <hi>Miller</hi> i'le vow,</l>
+               <l>Then taking my ſelf to the <hi>Harrow</hi> and <hi>Plow,</hi>
+               </l>
+               <l>'Tis free from deceiving, all Men will allow,</l>
+               <l>I labour and live by the ſmeat of my brow.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
